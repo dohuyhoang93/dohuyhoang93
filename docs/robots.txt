@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dohuyhoang93.github.io/dohuyhoang93/sitemap.xml

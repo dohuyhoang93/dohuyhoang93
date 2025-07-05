@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Users on home</title>
+    <link>https://dohuyhoang93.github.io/dohuyhoang93/users/</link>
+    <description>Recent content in Users on home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>dohuyhoangvn93@gmail.com (Do Huy Hoang)</managingEditor>
+    <webMaster>dohuyhoangvn93@gmail.com (Do Huy Hoang)</webMaster>
+    <copyright>© 2025 Do Huy Hoang</copyright>
+    <atom:link href="https://dohuyhoang93.github.io/dohuyhoang93/users/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
