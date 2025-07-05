@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sample on home</title>
-    <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/sample/</link>
+    <link>localhost:8080tags/sample/</link>
     <description>Recent content in Sample on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>dohuyhoangvn93@gmail.com (Do Huy Hoang)</managingEditor>
     <webMaster>dohuyhoangvn93@gmail.com (Do Huy Hoang)</webMaster>
     <copyright>© 2025 Do Huy Hoang</copyright>
-    <atom:link href="https://dohuyhoang93.github.io/dohuyhoang93/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost:8080tags/sample/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Users</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/users/</link>
+      <link>localhost:8080users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/users/</guid>
+      <guid>localhost:8080users/</guid>
       <description></description>
       
     </item>

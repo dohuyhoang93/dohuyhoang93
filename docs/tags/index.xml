@@ -2,111 +2,111 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on home</title>
-    <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/</link>
+    <link>localhost:8080tags/</link>
     <description>Recent content in Tags on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>dohuyhoangvn93@gmail.com (Do Huy Hoang)</managingEditor>
     <webMaster>dohuyhoangvn93@gmail.com (Do Huy Hoang)</webMaster>
     <copyright>© 2025 Do Huy Hoang</copyright>
-    <atom:link href="https://dohuyhoang93.github.io/dohuyhoang93/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="localhost:8080tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Advanced</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/advanced/</link>
+      <link>localhost:8080tags/advanced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/advanced/</guid>
+      <guid>localhost:8080tags/advanced/</guid>
       <description>&lt;p&gt;This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing. &amp;#x1f680;&lt;/p&gt;</description>
       
     </item>
     
     <item>
       <title>Config</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/config/</link>
+      <link>localhost:8080tags/config/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/config/</guid>
+      <guid>localhost:8080tags/config/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Docs</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/docs/</link>
+      <link>localhost:8080tags/docs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/docs/</guid>
+      <guid>localhost:8080tags/docs/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Front Matter</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/front-matter/</link>
+      <link>localhost:8080tags/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/front-matter/</guid>
+      <guid>localhost:8080tags/front-matter/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Installation</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/installation/</link>
+      <link>localhost:8080tags/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/installation/</guid>
+      <guid>localhost:8080tags/installation/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>New</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/new/</link>
+      <link>localhost:8080tags/new/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/new/</guid>
+      <guid>localhost:8080tags/new/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Sample</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/sample/</link>
+      <link>localhost:8080tags/sample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/sample/</guid>
+      <guid>localhost:8080tags/sample/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Series</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/series/</link>
+      <link>localhost:8080tags/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/series/</guid>
+      <guid>localhost:8080tags/series/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Thumbnail</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/thumbnail/</link>
+      <link>localhost:8080tags/thumbnail/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/thumbnail/</guid>
+      <guid>localhost:8080tags/thumbnail/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Users</title>
-      <link>https://dohuyhoang93.github.io/dohuyhoang93/tags/users/</link>
+      <link>localhost:8080tags/users/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>https://dohuyhoang93.github.io/dohuyhoang93/tags/users/</guid>
+      <guid>localhost:8080tags/users/</guid>
       <description></description>
       
     </item>

@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://dohuyhoang93.github.io/dohuyhoang93/en/sitemap.xml</loc>
+    <loc>localhost:8080/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://dohuyhoang93.github.io/dohuyhoang93/it/sitemap.xml</loc>
+    <loc>localhost:8080/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://dohuyhoang93.github.io/dohuyhoang93/ja/sitemap.xml</loc>
+    <loc>localhost:8080/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://dohuyhoang93.github.io/dohuyhoang93/zh-cn/sitemap.xml</loc>
+    <loc>localhost:8080/sitemap.xml</loc>
     
   </sitemap>
   
