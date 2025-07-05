@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: localhost:8080
+Sitemap: https://dohuyhoang93.github.io/dohuyhoang93/sitemap.xml

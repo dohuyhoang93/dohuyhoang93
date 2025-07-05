@@ -3,128 +3,128 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>localhost:8080ja/authors/</loc>
+    <loc>https://dohuyhoang93.github.io/dohuyhoang93/ja/authors/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/it/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/zh-cn/authors/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/ja/authors/"
     />
   </url>
   <url>
-    <loc>localhost:8080ja/</loc>
+    <loc>https://dohuyhoang93.github.io/dohuyhoang93/ja/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/it/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/zh-cn/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/ja/"
     />
   </url>
   <url>
-    <loc>localhost:8080ja/categories/</loc>
+    <loc>https://dohuyhoang93.github.io/dohuyhoang93/ja/categories/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/it/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/zh-cn/categories/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/ja/categories/"
     />
   </url>
   <url>
-    <loc>localhost:8080ja/series/</loc>
+    <loc>https://dohuyhoang93.github.io/dohuyhoang93/ja/series/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/it/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/zh-cn/series/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/ja/series/"
     />
   </url>
   <url>
-    <loc>localhost:8080ja/tags/</loc>
+    <loc>https://dohuyhoang93.github.io/dohuyhoang93/ja/tags/</loc>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="it"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/it/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/zh-cn/tags/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="ja"
-      href="#ZgotmplZ"
+      href="https://dohuyhoang93.github.io/dohuyhoang93/ja/tags/"
     />
   </url>
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on home</title>
-    <link>localhost:8080docs/</link>
+    <link>https://dohuyhoang93.github.io/dohuyhoang93/docs/</link>
     <description>Recent content in Documentation on home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>dohuyhoangvn93@gmail.com (Do Huy Hoang)</managingEditor>
     <webMaster>dohuyhoangvn93@gmail.com (Do Huy Hoang)</webMaster>
     <copyright>© 2025 Do Huy Hoang</copyright>
-    <atom:link href="localhost:8080docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dohuyhoang93.github.io/dohuyhoang93/docs/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Báo Cáo Khảo Sát Ứng Dụng Máy Học (ML) Trong Sản Xuất</title>
-      <link>localhost:8080docs/getting-started/</link>
+      <link>https://dohuyhoang93.github.io/dohuyhoang93/docs/getting-started/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>localhost:8080docs/getting-started/</guid>
+      <guid>https://dohuyhoang93.github.io/dohuyhoang93/docs/getting-started/</guid>
       <description>&lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
@@ -56,15 +56,15 @@
     
 &lt;/h2&gt;
 &lt;p&gt;Công ty Fujikin (Nhật Bản, có chi nhánh tại Việt Nam) chuyên sản xuất các sản phẩm siêu sạch cho công nghiệp bán dẫn, y tế, hàng không. Hiện Fujikin mong muốn áp dụng ML vào sản xuất với mục tiêu chính: giảm lỗi sản phẩm, hạ chi phí sản xuất, tối ưu hóa tồn kho và nắm bắt xu hướng dịch chuyển nhu cầu khách hàng. Theo xu hướng chung của ngành, AI/ML đã được chứng minh giúp nâng cao năng suất và chất lượng, đồng thời giảm chi phí vận hành. Ví dụ, ML cho phép dự báo thiết bị hư hỏng từ dữ liệu cảm biến, giúp lên lịch bảo trì chính xác hơn. Như vậy, kế hoạch này sẽ định hướng vào các ứng dụng như phát hiện dị thường (phế phẩm), dự báo nhu cầu và tự động hóa phân tích dữ liệu khách hàng để đạt các mục tiêu đề ra.&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="#ZgotmplZ" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dohuyhoang93.github.io/dohuyhoang93/docs/getting-started/featured.svg" />
     </item>
     
     <item>
       <title>Đánh giá tổng quan</title>
-      <link>localhost:8080docs/installation/</link>
+      <link>https://dohuyhoang93.github.io/dohuyhoang93/docs/installation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>localhost:8080docs/installation/</guid>
+      <guid>https://dohuyhoang93.github.io/dohuyhoang93/docs/installation/</guid>
       <description>&lt;h3 class=&#34;relative group&#34;&gt;&lt;strong&gt;Đánh giá tổng quan&lt;/strong&gt; 
     &lt;div id=&#34;đánh-giá-tổng-quan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -85,15 +85,15 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Điểm cần cải thiện (Thách thức lớn nhất):&lt;/strong&gt;&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="#ZgotmplZ" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dohuyhoang93.github.io/dohuyhoang93/docs/installation/featured.svg" />
     </item>
     
     <item>
       <title>Phản biện vòng 01</title>
-      <link>localhost:8080docs/review01/</link>
+      <link>https://dohuyhoang93.github.io/dohuyhoang93/docs/review01/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>localhost:8080docs/review01/</guid>
+      <guid>https://dohuyhoang93.github.io/dohuyhoang93/docs/review01/</guid>
       <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   Counter lại bài đánh giá sơ bộ.
 &lt;/div&gt;
@@ -109,37 +109,37 @@
     
 &lt;/h3&gt;
 &lt;p&gt;Bản kế hoạch của bạn có những điểm rất mạnh:&lt;/p&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="#ZgotmplZ" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dohuyhoang93.github.io/dohuyhoang93/docs/review01/featured.svg" />
     </item>
     
     <item>
       <title>Front Matter</title>
-      <link>localhost:8080docs/front-matter/</link>
+      <link>https://dohuyhoang93.github.io/dohuyhoang93/docs/front-matter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>localhost:8080docs/front-matter/</guid>
+      <guid>https://dohuyhoang93.github.io/dohuyhoang93/docs/front-matter/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="#ZgotmplZ" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dohuyhoang93.github.io/dohuyhoang93/docs/front-matter/featured.svg" />
     </item>
     
     <item>
       <title>Thumbnails</title>
-      <link>localhost:8080docs/thumbnails/</link>
+      <link>https://dohuyhoang93.github.io/dohuyhoang93/docs/thumbnails/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>localhost:8080docs/thumbnails/</guid>
+      <guid>https://dohuyhoang93.github.io/dohuyhoang93/docs/thumbnails/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="#ZgotmplZ" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dohuyhoang93.github.io/dohuyhoang93/docs/thumbnails/featured.svg" />
     </item>
     
     <item>
       <title>Series</title>
-      <link>localhost:8080docs/series/</link>
+      <link>https://dohuyhoang93.github.io/dohuyhoang93/docs/series/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>dohuyhoangvn93@gmail.com (Do Huy Hoang)</author>
-      <guid>localhost:8080docs/series/</guid>
+      <guid>https://dohuyhoang93.github.io/dohuyhoang93/docs/series/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="#ZgotmplZ" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://dohuyhoang93.github.io/dohuyhoang93/docs/series/featured.svg" />
     </item>
     
   </channel>
