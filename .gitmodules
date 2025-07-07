@@ -1,6 +1,0 @@
-[submodule "hugo/themes/blowfish"]
-	path = hugo/themes/blowfish
-	url = https://github.com/nunocoracao/blowfish.git
-[submodule "hugo/themes/terminal"]
-	path = hugo/themes/terminal
-	url = https://github.com/panr/hugo-theme-terminal.git
